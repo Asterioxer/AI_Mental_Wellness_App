@@ -8,4 +8,6 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+  ## Working hosted link:
+  https://divide-radial-20360828.figma.site
